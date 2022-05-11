@@ -18,7 +18,7 @@ public class Ejercicio11 {
 		
 		double total=base_imponible+iva;
 		
-		System.out.println(total);
+		System.out.println("El total es: "+total);
 
 		
 		
